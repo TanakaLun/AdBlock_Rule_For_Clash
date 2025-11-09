@@ -320,3 +320,9 @@ https://raw.githubusercontent.com/AdguardTeam/ADguardFilters/master/TrackParamFi
 
 107. ADguard TrackParamFilter-general_url
 https://raw.githubusercontent.com/AdguardTeam/ADguardFilters/master/TrackParamFilter/sections/general_url.txt
+
+108. Cats-Team/AdRules
+https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_plus.txt
+
+109. Twilight/AWAvenue-Ads-Rule
+https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
