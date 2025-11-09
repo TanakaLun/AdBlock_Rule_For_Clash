@@ -180,6 +180,8 @@ rules:
 
 1. [mihomo](https://github.com/MetaCubeX/mihomo)
 2. [Adguard](https://github.com/AdguardTeam/AdGuardFilters)
+3. [秋风广告规则](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)
+4. [Cats-Team](https://github.com/Cats-Team/AdRules)
 
 ## LICENSE
 - [CC-BY-SA-4.0 License](https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA%204.0)
