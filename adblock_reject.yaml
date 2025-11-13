@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-11-13 11:45:03
+# Generated on: 2025-11-13 12:21:57
 # Generated AdBlock rules
-# Total entries: 157235
+# Total entries: 157226
 
 payload:
 - '0.myikas.com'
@@ -10800,7 +10800,6 @@ payload:
 - 'adserverplus.com'
 - 'adserverpub.com'
 - 'adservg.com'
-- 'adservice.google.cn'
 - 'adservice.sigmob.cn'
 - 'adservicemedia.dk'
 - 'adserviceretry.kugou.com'
@@ -25079,7 +25078,6 @@ payload:
 - 'cctpyneuuiuwn.site'
 - 'cctrkom.creditcards.com'
 - 'ccttoocxmymh.net'
-- 'cctv.adsunion.com'
 - 'ccueb.shoebacca.com'
 - 'ccuoqedyqvttq.tech'
 - 'ccvhugvmaxc.net'
@@ -26461,7 +26459,6 @@ payload:
 - 'cizml.wyndhamhotels.com'
 - 'cizzvi.beldona.com'
 - 'cj.dotomi.com'
-- 'cj.qidian.com'
 - 'cj2015.drywear.dk'
 - 'cj2550.com'
 - 'cjaktayqsl.net'
@@ -30667,7 +30664,6 @@ payload:
 - 'cwqxp.sinnersattire.com'
 - 'cwrsyyzfooqyh.online'
 - 'cwrwhaivdyy.com'
-- 'cws-cctv.conviva.com'
 - 'cws-hulu.conviva.com'
 - 'cws.conviva.com'
 - 'cwsbrxarjnaav.space'
@@ -51937,7 +51933,6 @@ payload:
 - 'googleadapis.l.google.com'
 - 'googleads-cn.com'
 - 'googleads.g.doubleclick-cn.net'
-- 'googleads.g.doubleclick.com'
 - 'googleadservices-cn.com'
 - 'googleadsserving.cn'
 - 'googleapi.club'
@@ -63751,7 +63746,6 @@ payload:
 - 'itudxxjroadevb.com'
 - 'ituxolroarg.com'
 - 'ituzf.aoniclife.com'
-- 'itv2-up.openspeech.cn'
 - 'itvalleynews.com'
 - 'itvfpesimiyuy.tech'
 - 'itvpxyhsacbwm.online'
@@ -100790,7 +100784,6 @@ payload:
 - 'reusingcongeal.shop'
 - 'reusrtmgoxllr.website'
 - 'rev-stripe.com'
-- 'rev.aiclk.com'
 - 'rev.frankspeech.com'
 - 'revampcdn.com'
 - 'revcontent.com'
@@ -112144,7 +112137,6 @@ payload:
 - 'siglumegotism.cyou'
 - 'sigma.cases.gg'
 - 'sigma.litimes.org'
-- 'sigmob.cn'
 - 'sigmob.com'
 - 'sign.use-neo.com'
 - 'signaladsdirect.top'
@@ -112933,7 +112925,6 @@ payload:
 - 'smart-data-systems.com'
 - 'smart-placements-sdk.ex.co'
 - 'smart-sing.pro'
-- 'smart-tv.cn'
 - 'smart-wp.com'
 - 'smart.boxtone.com'
 - 'smart.menuiserie-collin.lu'
