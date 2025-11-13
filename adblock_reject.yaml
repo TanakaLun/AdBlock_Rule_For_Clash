@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-11-13 09:14:29
+# Generated on: 2025-11-13 10:52:56
 # Generated AdBlock rules
-# Total entries: 157236
+# Total entries: 157235
 
 payload:
 - '0.myikas.com'
@@ -46131,7 +46131,6 @@ payload:
 - 'feechoojaigeep.net'
 - 'feed-6009.coderformylife.info'
 - 'feed-ads.com'
-- 'feed-image.baidu.com'
 - 'feed-xml.com'
 - 'feed.baidu.com'
 - 'feed.clickmenia.com'
