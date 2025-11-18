@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-11-18 14:24:06
+# Generated on: 2025-11-18 14:54:14
 # Generated AdBlock rules
-# Total entries: 130725
+# Total entries: 130734
 
 payload:
 - '0.myikas.com'
@@ -10885,6 +10885,7 @@ payload:
 - 'adwstats.com'
 - 'adwx6vcj.com'
 - 'adx-ad.smart-tv.cn'
+- 'adx-api.jinmo.tech'
 - 'adx-bj-req.anythinktech.com'
 - 'adx-bj.anythinktech.com'
 - 'adx-cn.anythinktech.com'
@@ -10893,6 +10894,7 @@ payload:
 - 'adx-in.ads.heytapmobile.com'
 - 'adx-open-service.youku.com'
 - 'adx-os.anythinktech.com'
+- 'adx-saas.advlion.com'
 - 'adx.36kr.com'
 - 'adx.ads.heytapmobi.com'
 - 'adx.ads.oppomobile.com'
@@ -20639,6 +20641,7 @@ payload:
 - 'bizosama.com'
 - 'bizrate.com'
 - 'bizz.cochraneco.com'
+- 'bj-td-menta-01-callback.advlion.com'
 - 'bj.ad.track.66mobi.com'
 - 'bj1.118pan.com'
 - 'bj2550.com'
@@ -22758,6 +22761,7 @@ payload:
 - 'c.down.tube'
 - 'c.erth.se'
 - 'c.erthkottbutik.se'
+- 'c.etoolads.cn'
 - 'c.evidon.com'
 - 'c.fingerprint.com'
 - 'c.gazetevatan.com'
@@ -73156,6 +73160,7 @@ payload:
 - 'monitor-frontend-collector.a.bybit-aws.com'
 - 'monitor-targeting-failures.sqrt-5041.de'
 - 'monitor-uu.play.aiseet.atianqi.com'
+- 'monitor.adxsenmeng.com'
 - 'monitor.agenedia.com'
 - 'monitor.azure.com'
 - 'monitor.channel4.com'
@@ -85519,6 +85524,7 @@ payload:
 - 'qmkackqmigezu.club'
 - 'qmkct.blessedbemagick.com'
 - 'qmlnioxbjldsfsa.xyz'
+- 'qmlog.baertt.com'
 - 'qmlpshhjq.net'
 - 'qmlrmarmalebo.top'
 - 'qmlrmarmalyvb.top'
@@ -89622,6 +89628,7 @@ payload:
 - 'rtb.adjux.com'
 - 'rtb.adventurefeeds.com'
 - 'rtb.advertrek.com'
+- 'rtb.adxsenmeng.com'
 - 'rtb.allureanews.com'
 - 'rtb.clixportal.com'
 - 'rtb.clixwells.com'
@@ -90734,6 +90741,7 @@ payload:
 - 's0cool.net'
 - 's0drxaq4v7.com'
 - 's1.carnext.com'
+- 's1.cdn-sg.advlion.com'
 - 's1.dugoogle.com'
 - 's1.hanlinzhijia.com'
 - 's1.pipishu.com'
@@ -109287,6 +109295,7 @@ payload:
 - 'target.accenture.com'
 - 'target.acpny.com'
 - 'target.actonservice.com'
+- 'target.ads.jihuoniao.com'
 - 'target.afrique.pwc.com'
 - 'target.aia.co.kr'
 - 'target.aiavitality.co.kr'
