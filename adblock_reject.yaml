@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-11-23 11:16:40
+# Generated on: 2025-11-23 12:05:45
 # Generated AdBlock rules
-# Total entries: 131982
+# Total entries: 131990
 
 payload:
 - '0.myikas.com'
@@ -3915,6 +3915,7 @@ payload:
 - '9pi2q3cipu1fj3h.cfd'
 - '9poo3z1piye3q57.cfd'
 - '9pub.io'
+- '9pzoz6taf.com'
 - '9r0v0go0el.com'
 - '9s4l9nik.de'
 - '9swovqnp52.com'
@@ -14351,6 +14352,7 @@ payload:
 - 'analyticsnarc.ro.ing.net'
 - 'analyticsnew.overwolf.com'
 - 'analyticsnossl.forcepoint.com'
+- 'analyticsplusdev.clientify.net'
 - 'analyticsq.com'
 - 'analyticsresults.bildungsforum.datev.de'
 - 'analyticsresults.datev-karriereblog.de'
@@ -36468,6 +36470,7 @@ payload:
 - 'disprovefacilityjolt.com'
 - 'disrespectpreceding.com'
 - 'disrespectsuffer.com'
+- 'disruptive49.com'
 - 'dissatisfactionpublicity.com'
 - 'dissertanitos.com'
 - 'dissipatecombinedcolon.com'
@@ -44237,6 +44240,7 @@ payload:
 - 'fl.raselatorbd.com'
 - 'fl.saleszonebd.com'
 - 'fl.ummahsweetsbd.com'
+- 'fl0hg5wlr.com'
 - 'fl5dpe.oui.sncf'
 - 'flabbymatt.com'
 - 'flacasp0.tranquilpinnacle.com'
@@ -76049,6 +76053,7 @@ payload:
 - 'nfudeh.jadebag.co.kr'
 - 'nfuumxeim.com'
 - 'nfvetkycvdkaw.life'
+- 'nfvp.cn'
 - 'nfvvxg.kaneka-yhc.co.jp'
 - 'nfxonb.icu'
 - 'nfzetr.shop.bestseller.com'
@@ -77505,6 +77510,7 @@ payload:
 - 'nyvzocirybwts.website'
 - 'nyxsatfpppyye.online'
 - 'nyyafuvjntpme.site'
+- 'nyzrbx.icu'
 - 'nyzutyzsollwd.website'
 - 'nz-go.experian.com'
 - 'nzaat.foamorder.com'
@@ -86929,6 +86935,7 @@ payload:
 - 'quszrmzafudas.online'
 - 'qutsgp.calif.cc'
 - 'qutyan8848.com'
+- 'quudraidfg.com'
 - 'quwzjyqzsiobg.space'
 - 'quxmihfnfpgj5iorpnmk69m.cfd'
 - 'quyerj.northstyle.com'
@@ -127628,6 +127635,7 @@ payload:
 - 'xjx11211ts.com'
 - 'xjx11220ts.com'
 - 'xjx11221ts.com'
+- 'xjx11230ts.com'
 - 'xjzize.maeva.com'
 - 'xjztuj.kbwine.com'
 - 'xjzyhp.xyz'
