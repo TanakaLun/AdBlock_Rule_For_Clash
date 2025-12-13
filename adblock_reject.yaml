@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-14 01:45:48
+# Generated on: 2025-12-14 02:25:36
 # Generated AdBlock rules
-# Total entries: 135527
+# Total entries: 135530
 
 payload:
 - '0.myikas.com'
@@ -13041,6 +13041,7 @@ payload:
 - 'analytics-cf.bigcrunch.com'
 - 'analytics-cms.whitebeard.me'
 - 'analytics-coletor-site.ojc.com.br'
+- 'analytics-collect.karakuri.ai'
 - 'analytics-conomi.line.me'
 - 'analytics-consent-manager-v2-prod.azureedge.net'
 - 'analytics-dataplane.invideo.io'
@@ -21381,6 +21382,7 @@ payload:
 - 'bnofjtuewcnca.site'
 - 'bnopq.hansohome.com'
 - 'bnp3.com'
+- 'bnqektutom.com'
 - 'bnr.sys.lv'
 - 'bnrdnx.xyz'
 - 'bnrdom.com'
@@ -41464,6 +41466,7 @@ payload:
 - 'ephebeatef.click'
 - 'ephemeralcounters.api.roblox.com'
 - 'ephoarouglou.net'
+- 'ephothuwi.com'
 - 'ephyzh.learnit.nl'
 - 'epicclicks.net'
 - 'epicgolive.rainresources.com'
