@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2025-12-21 13:48:52
+# Generated on: 2025-12-21 14:29:05
 # Generated AdBlock rules
-# Total entries: 136781
+# Total entries: 136784
 
 payload:
 - '0.myikas.com'
@@ -79048,6 +79048,7 @@ payload:
 - 'nmo1.orpi.com'
 - 'nmohwgqtxslxm.site'
 - 'nmpsxkgzoebbs.space'
+- 'nmqlmtlnkmuew.site'
 - 'nmqucmzlrfgip.online'
 - 'nmqwxtdszqycg.website'
 - 'nmrdnqn.cn'
@@ -81811,6 +81812,7 @@ payload:
 - 'opaledpollen.help'
 - 'opalmetely.com'
 - 'opalquill.com'
+- 'opalzsftmxtxn.site'
 - 'opawqdpgacmw.xyz'
 - 'opbdps.bonprix.fi'
 - 'opbvu.getfirstperson.com'
@@ -115032,6 +115034,7 @@ payload:
 - 'tenadfpgwocuw.website'
 - 'tenant-content.apm.appfolio-analytics.com'
 - 'tenantbororo.help'
+- 'tenantcrouton.com'
 - 'tencent-dtv.m.cn.miaozhen.com'
 - 'tend-new.com'
 - 'tenddesigner.com'
