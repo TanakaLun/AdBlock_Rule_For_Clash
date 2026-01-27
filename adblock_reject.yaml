@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-27 20:48:04
+# Generated on: 2026-01-27 21:46:10
 # Generated AdBlock rules
-# Total entries: 154229
+# Total entries: 154237
 
 payload:
 - '0.avmarket.rs'
@@ -10039,6 +10039,7 @@ payload:
 - 'ad.vietbao.vn'
 - 'ad.walkgame.com'
 - 'ad.wamxb.info'
+- 'ad.weibo.com'
 - 'ad.winrar.com.cn'
 - 'ad.wrtn.ai'
 - 'ad.wsod.com'
@@ -10531,6 +10532,7 @@ payload:
 - 'adimages.rtvdrenthe.nl'
 - 'adimages.sniffies.com'
 - 'adimg.liba.com'
+- 'adimg.uve.weibo.com'
 - 'adinplay-venatus.workers.dev'
 - 'adintl.cn'
 - 'adiquity.com'
@@ -11196,6 +11198,7 @@ payload:
 - 'adstoppedtotalkto.com'
 - 'adstore-1252524079.file.myqcloud.com'
 - 'adstore-index-1252524079.file.myqcloud.com'
+- 'adstrategy.biz.weibo.com'
 - 'adstreampro.com'
 - 'adstryker.shajgharbd.com'
 - 'adstudio-assets.scdn.co'
@@ -11311,6 +11314,7 @@ payload:
 - 'adtube.media'
 - 'adtx2.cn'
 - 'aduahr.outbax.com.au'
+- 'adui.tg.meitu.com'
 - 'adultadvertising.net'
 - 'adultcamchatfree.com'
 - 'adultcamfree.com'
@@ -11439,6 +11443,7 @@ payload:
 - 'adx-open-service.youku.com'
 - 'adx-os.anythinktech.com'
 - 'adx-saas.advlion.com'
+- 'adx-strategy-api-cn.statisticslinks.com'
 - 'adx.36kr.com'
 - 'adx.ads.heytapmobi.com'
 - 'adx.ads.oppomobile.com'
@@ -84881,6 +84886,7 @@ payload:
 - 'moreinfo.onnowdigital.com'
 - 'moreinfo.powerpro360.com'
 - 'moreinfo.sdmyers.com'
+- 'mores.toponad.com'
 - 'morestamping.com'
 - 'morfreyoutfast.qpon'
 - 'morganfranklin.actonservice.com'
@@ -130169,6 +130175,7 @@ payload:
 - 'tagsoviet.com'
 - 'tagsternapkins.qpon'
 - 'tagtd.cn'
+- 'tagtic.cn'
 - 'tagtracking.vibescm.com'
 - 'tagueamento.thefishclub.com.br'
 - 'taharbleaky.cfd'
@@ -138714,6 +138721,7 @@ payload:
 - 'tuhmkjce.icu'
 - 'tuhszivw.com'
 - 'tuhzjrr.cn'
+- 'tuiguang.meitu.com'
 - 'tuingascree.help'
 - 'tuisong.baidu.com'
 - 'tujlpraovjert.site'
