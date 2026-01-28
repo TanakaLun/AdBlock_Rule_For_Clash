@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-28 09:43:57
+# Generated on: 2026-01-28 11:44:26
 # Generated AdBlock rules
-# Total entries: 154402
+# Total entries: 154403
 
 payload:
 - '0.avmarket.rs'
@@ -10950,6 +10950,7 @@ payload:
 - 'ads.aphex.me'
 - 'ads.aralego.com'
 - 'ads.athleticrun.com.br'
+- 'ads.auctions.yahoo.com'
 - 'ads.baddiesonlyporn.com'
 - 'ads.betfair.com'
 - 'ads.betweendigital.com'
