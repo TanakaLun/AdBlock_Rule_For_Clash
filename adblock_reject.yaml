@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-01-29 09:56:03
+# Generated on: 2026-01-29 12:07:56
 # Generated AdBlock rules
-# Total entries: 149282
+# Total entries: 149297
 
 payload:
 - '0.avmarket.rs'
@@ -343,6 +343,7 @@ payload:
 - '10f08b9ab4.d033093f1f.com'
 - '10f506eaa3.19b7f4f4d8.com'
 - '10f55ab5ed.com'
+- '10f8fc8a55.com'
 - '10k8ovyv.art'
 - '10q6e9ne5.de'
 - '10sn95to9.de'
@@ -2630,6 +2631,7 @@ payload:
 - '5o8aj5nt.de'
 - '5pi13h3q.de'
 - '5qo144jluzfnbpwen.cfd'
+- '5r3hputjvv5zex.rest'
 - '5r6lux3rrlqte1r5.cfd'
 - '5t1jqutv8lj8364uoe11ki1uh.cfd'
 - '5tf8v3rv.ohtwiqwhxovjlqi8fcb.cfd'
@@ -3486,6 +3488,7 @@ payload:
 - '8y83euwehq669vq9.cfd'
 - '8yqqgn5g.xyz'
 - '8ytm3vnjc3fhw7nypxuhwuczfbf.cfd'
+- '8z7u9hp771g4copqel.cfd'
 - '8z7wm6jwp29mvyzypp7oyok4obpw9k.cfd'
 - '8zf8lic5x4intf2.cfd'
 - '9.www.02952346.xyz'
@@ -42504,6 +42507,7 @@ payload:
 - 'enlightenedmountain.com'
 - 'enlightenelevatorboycott.com'
 - 'enlivenindex.com'
+- 'enlor.xyz'
 - 'enlsdqmbzycmo.space'
 - 'enlurepittard.qpon'
 - 'enlvbrhejiami.online'
@@ -43081,6 +43085,7 @@ payload:
 - 'esfuhb.osohshiki.jp'
 - 'esgher.fun'
 - 'esgher.site'
+- 'esgiipgpqxodfvg.com'
 - 'esgwgsnrbevnb.website'
 - 'eshkol.io'
 - 'eshkol.one'
@@ -48116,6 +48121,7 @@ payload:
 - 'fxdmnmsna.space'
 - 'fxeaobv.icu'
 - 'fxenghlfnqnxb.website'
+- 'fxevrmpsqpli.com'
 - 'fxewupiyppjkg.website'
 - 'fxfezg.bodylab24.de'
 - 'fxfzrqiuddstx.site'
@@ -75394,6 +75400,7 @@ payload:
 - 'mahkjru.cam'
 - 'mahmud.menfabri.com'
 - 'mahoganyproductthat.com'
+- 'maholicloison.com'
 - 'maholiposture.cfd'
 - 'mahorivibioid.cyou'
 - 'mahrikiyi.cfd'
@@ -87512,6 +87519,7 @@ payload:
 - 'omtrdc.jobstreet.vn'
 - 'omtrns.sstats.q8.dk'
 - 'omvzcq.vidaxl.be'
+- 'omwosdqzuomz.com'
 - 'omwvapmytccsc.online'
 - 'omxodt.shredoptics.com'
 - 'omxpiremgszzv.space'
@@ -90723,6 +90731,7 @@ payload:
 - 'pegsbuttons.com'
 - 'pehcp.chicagofirefc.com'
 - 'pehkmy.edreams.pt'
+- 'pehwiexpakvqhxm.xyz'
 - 'peibd.bullybeds.com'
 - 'peinmanto.qpon'
 - 'peiq.services'
@@ -123895,6 +123904,7 @@ payload:
 - 'suffocatefried.com'
 - 'suffocateinnhandling.com'
 - 'sugabyte.actonservice.com'
+- 'sugamopanging.com'
 - 'sugar.zhihu.com'
 - 'sugarruse.com'
 - 'sugary-lake.pro'
@@ -124630,6 +124640,7 @@ payload:
 - 'sxcdom.ski-willy.at'
 - 'sxdcbmmqyijpu.online'
 - 'sxdfhgniwzxzc.space'
+- 'sxdrfkxuaayyf.online'
 - 'sxdsvaicpjnzg.website'
 - 'sxeimx.mydays.de'
 - 'sxeythdkvmjyl.online'
@@ -139245,6 +139256,7 @@ payload:
 - 'vkdqiijvnljek.online'
 - 'vkdrvsfxomtxw.space'
 - 'vkdvow.livingmotif.com'
+- 'vkdzmnmeihbjr.space'
 - 'vkebfg.mymoons.co'
 - 'vkebnbiwkndbp.site'
 - 'vkehcvahibhix.space'
@@ -145888,6 +145900,7 @@ payload:
 - 'xrtb.io'
 - 'xruulc.some-place.co.kr'
 - 'xrvafzjhkivnn.space'
+- 'xrvjrchyskdnc.site'
 - 'xrvouznmzylmg.space'
 - 'xrxalsvtsruem.site'
 - 'xrxfaa.giannakazakou.gr'
@@ -146929,6 +146942,7 @@ payload:
 - 'ykrjuhnidkkb.com'
 - 'ykrsorluybndt.website'
 - 'ykskhw.candytm.pl'
+- 'ykupealbuasfr.website'
 - 'ykuttw.beidelli.com'
 - 'ykveifvdzadrl.online'
 - 'ykvlhxlrdqzjw.website'
@@ -149130,6 +149144,7 @@ payload:
 - 'zwgoeg.zakcret.gr'
 - 'zwifreacmz.com'
 - 'zwinqi.spartoo.pt'
+- 'zwiodtagd.com'
 - 'zwiucp.ohmynews.com'
 - 'zwjaoni.cn'
 - 'zwk7ybbg.net'
