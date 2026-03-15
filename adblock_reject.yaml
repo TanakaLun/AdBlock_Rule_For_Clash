@@ -3,9 +3,9 @@
 # Homepage: https://github.com/REIJI007/AdBlock_Rule_For_Clash
 # LICENSE1: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-GPL 3.0
 # LICENSE2: https://github.com/REIJI007/AdBlock_Rule_For_Clash/blob/main/LICENSE-CC-BY-NC-SA 4.0
-# Generated on: 2026-03-15 07:56:37
+# Generated on: 2026-03-15 10:33:26
 # Generated AdBlock rules
-# Total entries: 163654
+# Total entries: 163656
 
 payload:
 - '0.avmarket.rs'
@@ -103750,6 +103750,7 @@ payload:
 - 'r.rover.com'
 - 'r.sax.sina.com.cn'
 - 'r.scraperib.com'
+- 'r.sdiapi.net'
 - 'r.sib2.gardrops.com'
 - 'r.silvertrck.com'
 - 'r.skimresources.com'
@@ -138287,6 +138288,7 @@ payload:
 - 'tag.foreverfierce.com'
 - 'tag.franquiahomeangels.com.br'
 - 'tag.geeker.co'
+- 'tag.gendiscover.com'
 - 'tag.getamigo.io'
 - 'tag.goldenbees.fr'
 - 'tag.hanoverpowersports.com'
